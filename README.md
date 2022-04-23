@@ -7,7 +7,7 @@ The implementation of the neural network framework such as **backpropagation** h
 
 You can see the results in the following:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FUB_QUYvTm8/0.jpg)](https://www.youtube.com/watch?v=FUB_QUYvTm8)
+[![text](https://img.youtube.com/vi/FUB_QUYvTm8?start=47/0.jpg)](https://www.youtube.com/watch?v=FUB_QUYvTm8?start=47)
 
 
 #### You can find our team's code base here:

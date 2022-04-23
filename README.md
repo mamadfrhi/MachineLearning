@@ -1,6 +1,8 @@
-# Machine Learning
-My achievement in AI/ML era
-#
+# Machine Learning 🧠🤖
+
+My achievement in AI/ML era 🏅
+
+
 ## What is it? 🙋🏻
 It's an open-source project for the ML course at the University of Würzburg.
 

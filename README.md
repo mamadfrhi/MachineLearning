@@ -7,9 +7,8 @@ The implementation of the neural network framework such as **backpropagation** h
 
 You can see the results in the following:
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=FUB_QUYvTm8"></a>
-</div>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FUB_QUYvTm8/0.jpg)](https://www.youtube.com/watch?v=FUB_QUYvTm8)
+
 
 #### You can find our team's code base here:
 Neural Network Framework code-base attached below and you can use it to train a Neural Network with any kind of input data. (it's the simple version of Keras Framework 😉😁)

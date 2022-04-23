@@ -16,8 +16,6 @@ You can see the result here
 </div>
 
 
-[![good image](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
 #### You can find our team's code base here:
 You can find the Neural Network Framework below and use it to train a Neural Network with any kind of input data. We trained a model using recorded gesture videos by ourselves.
 
